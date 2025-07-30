@@ -187,3 +187,6 @@ $RECYCLE.BIN/
 
 # Project specific
 /project-bolt-sb1-nmz4hq9a/
+
+# GitHub Copilot instructions (keep private)
+.github/copilot-instructions.md
